@@ -5,6 +5,7 @@ using System;
 //testa
 public class PlayerController : MonoBehaviour
 {
+//abc
     public event Action ArrivedGoalEvent;
 
     [SerializeField]
