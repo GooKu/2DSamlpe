@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-//testa111
+//testa
 public class PlayerController : MonoBehaviour
 {
     public event Action ArrivedGoalEvent;
