@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-//[SerializeField]
+//[SerializeField]1
     [SerializeField]
     private Text countdownText;
     [SerializeField]
